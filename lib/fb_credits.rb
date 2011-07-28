@@ -1,0 +1,3 @@
+module FbCredits
+  # Your code goes here...
+end
